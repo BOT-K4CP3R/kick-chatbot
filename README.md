@@ -22,8 +22,7 @@ To obtain cookies for the config, you need to log in to the bot account and past
   return formattedCookies;
 }
 
-const formattedCookies = getFormattedCookies();
-console.log(formattedCookies);
+console.log(getFormattedCookies())
 ```
 
 <footer>This is not an official form of creating bots on the kick.com platform!</footer>
